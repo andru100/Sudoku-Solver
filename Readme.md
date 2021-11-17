@@ -6,4 +6,4 @@ Sudoku puzzles are given in a string where a number represents a starter value a
 
 I then demonstrate how a simple puzzle can be solved using constraint propagation. <br/>
 
-Finally I demonstrate how when given a harder puzzle a combination of constraint propagation and depth first search is needed to create a solution that can solve any puzzle given.
+Finally I demonstrate how when given a harder puzzle, a combination of constraint propagation and depth first search is needed to create a solution that can solve any puzzle, no matter the complexity.
