@@ -1,4 +1,4 @@
-#Solving Sudoku
+# Solving Sudoku
 
 In this project I use python to solve any given sudoku puzzle <br/>
 
